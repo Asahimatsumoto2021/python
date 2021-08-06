@@ -1,0 +1,7 @@
+age=input("How old are you?")
+print ("I'm"+age+" years old.")
+
+
+## How old are you? 20
+I'm 20 years old.
+
