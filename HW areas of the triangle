@@ -1,0 +1,10 @@
+height=input('what is the height of triangle?')
+bottom=input ('what is the length of bottom line?')
+area=float(height)*float(bottom)/2
+print=("the area of the triangle:"+str(area))
+
+##/Users/matsumotoasahi/PycharmProjects/AsahiPythonProject/venv/bin/python /Users/matsumotoasahi/PycharmProjects/AsahiPythonProject/main.py
+what is the height of triangle?4
+what is the length of bottom line?5
+
+Process finished with exit code 0
