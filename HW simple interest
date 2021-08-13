@@ -1,0 +1,10 @@
+initial_balance = input("How much is your initial principal balance?")
+interest=input("How much is the annual interest?")
+time=input('How many years?')
+final_amount=float(initial_balance )*(1+(float(interest)*float(time)))
+print("Final amount:"+str(final_amount))
+
+##How much is your initial principal balance?10
+How much is the annual interest?2
+How many years?4
+Final amount:90.0
