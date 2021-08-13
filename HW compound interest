@@ -1,0 +1,16 @@
+initial_balance = input("How much is your initial principal balance?")
+interest=input("How much is the annual interest?")
+time=input('How many years?')
+times=input("How many times is deposit is compounded per year?")
+
+final_amount=float(initial_balance )*(1+(float(interest)/float(times)))**(float(times)*float(time))
+print("Final amount:"+str(final_amount))
+
+
+##How much is your initial principal balance?10
+How much is the annual interest?1
+How many years?10
+How many times is deposit is compounded per year?1
+Final amount:10240.0
+
+Process finished with exit code 0
