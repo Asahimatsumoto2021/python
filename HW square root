@@ -1,0 +1,9 @@
+number=input("what is the number?")
+root=float(number)**0.5
+print("the square root is :" +str(root))
+
+##
+what is the number?4
+the square root is :2.0
+
+Process finished with exit code 0
