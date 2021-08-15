@@ -1,0 +1,6 @@
+birth_year=input("When is your birth year?")
+age=2021-int(birth_year)   ##intで数字に
+print("You are:" + str(age) + " years old")　##strで文字に
+
+##When is your birth year? 1998
+You are:23 years old
