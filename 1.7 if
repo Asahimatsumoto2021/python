@@ -1,0 +1,7 @@
+i = input("What is the number?")
+if ( i==5 ):
+    print("Yes")
+else: 
+    print ("No")
+##What is the number?7
+No
