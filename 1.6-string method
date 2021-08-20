@@ -1,0 +1,15 @@
+book = "the_note_book"
+print(len(book))
+print(book.find("t"))
+print(book.upper())
+print(book.lower())
+print(book.islower())
+print(book.replace("note","old"))
+
+##
+13
+0
+THE_NOTE_BOOK
+the_note_book
+True
+the_old_book
