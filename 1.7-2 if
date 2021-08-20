@@ -1,0 +1,12 @@
+temperature=input("What is the temperature?")
+if (int(temperature) > 25) :
+    print ("Drink more water.")
+
+elif (int(temperature)<10):
+    print("Ware warmer cloths.")
+
+else:
+    print("Have a great day.")
+    
+ ##What is the temperature?30
+Drink more water.
