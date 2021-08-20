@@ -1,0 +1,4 @@
+Name="sato_takeru"
+print(Name[0:4])
+
+#sato
