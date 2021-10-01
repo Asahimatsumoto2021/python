@@ -1,0 +1,23 @@
+A=input("What is your number?")
+B=input("Guess the number.")
+i=1
+while i<=3:
+     if (A==B):
+          print('correct')
+          i=4
+
+     else:
+          print("wrong")
+          i=i+1
+          B=input("Guess the number again")
+print("Done")
+
+##/Users/matsumotoasahi/PycharmProjects/AsahiPythonProject/venv/bin/python /Users/matsumotoasahi/PycharmProjects/AsahiPythonProject/main.py
+What is your number?4
+Guess the number.6
+wrong
+Guess the number again7
+wrong
+Guess the number again4
+correct
+Done
