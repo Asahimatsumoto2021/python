@@ -1,0 +1,7 @@
+x = range(1,101)
+sum=0
+for i in x:
+    sum = sum +i
+print("total number is", sum)
+
+##total number is 5050
